@@ -1,4 +1,4 @@
-# Doctor AI Agent
+# Doctor AI AGENT
 
 A Next.js application that provides an AI-powered medical assistant with real-time voice conversation capabilities.
 
